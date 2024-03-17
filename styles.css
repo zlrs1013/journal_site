@@ -25,7 +25,7 @@ a {
 #sidebar {
   height: 90vh;
   min-height: 735px;
-  min-width:200px;
+  min-width:250px;
   z-index: 999;
   border-right: 0.1rem solid;
   position: relative;
